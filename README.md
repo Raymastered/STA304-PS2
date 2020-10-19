@@ -8,6 +8,4 @@
  
  STA304_PS2_Income_Analysis.rmd - Raw R data and scripts for the study <br />
  
- STA304_PS2_Income_Analysis.html - Alternative version of the compiled report in HTML format <br />
- 
- gss.csv - Raw CSV data used for the study and analysis
+ STA304_PS2_Income_Analysis.html - Alternative version of the compiled report in HTML format
