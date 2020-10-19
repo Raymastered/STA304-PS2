@@ -1,5 +1,6 @@
 # STA304-PS2
- STA304 - A study on analyzing respondent income based on age, education, and occupation
+ STA304 - A study on analyzing respondent income based on age, education, and occupation <br />
+ 
  Team Members: Ruize Liu (1003320499) and Yi Lei Feng (1003139356)
  
  # Files
